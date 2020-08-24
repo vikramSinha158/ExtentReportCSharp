@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R1.Automation.DataReadWrite.Core", "R1.Automation.DataReadWrite.Core\R1.Automation.DataReadWrite.Core.csproj", "{74EC8399-3878-4C0F-B1E6-A0F6B021184F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74EC8399-3878-4C0F-B1E6-A0F6B021184F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74EC8399-3878-4C0F-B1E6-A0F6B021184F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74EC8399-3878-4C0F-B1E6-A0F6B021184F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74EC8399-3878-4C0F-B1E6-A0F6B021184F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CFEC976-F33C-4442-89F5-41307B5A0D01}
+	EndGlobalSection
+EndGlobal
